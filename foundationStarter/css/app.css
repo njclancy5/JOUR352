@@ -11,7 +11,7 @@
 }
 
 .box1 {
-	background-color: yellow;
+	background-color: blue;
 }
 
 .box2 {
@@ -19,5 +19,9 @@
 }
 
 .box3 {
-	background-color:  orange;
+	background-color:  aquamarine;
+}
+
+.docs-example-orbit-slide {
+background-color: teal;
 }
