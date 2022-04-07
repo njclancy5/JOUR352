@@ -1,0 +1,81 @@
+.mainHeader {
+	background-color:#99B7DE;
+  padding: 40px 0 40px 0;
+  margin-bottom: 20px;
+}
+
+h1 {
+	font-weight: 700;
+  color:black;
+  font-family: 'Merriweather', serif;
+
+}
+
+h2 {
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+  font-size:  29px;
+}
+
+h3 {
+	font-weight: 700;
+  font-family: 'Merriweather', serif;
+  padding:  10px 0 10px 0;
+}
+
+p {
+font-family: 'Merriweather', serif;
+}
+
+li {
+  padding-bottom: 17px;
+}
+
+
+.sidebar {
+	background-color:#C9E1FF;
+  font-family: 'Merriweather', serif;
+}
+
+.calloutStyle {
+background-color: #567091;
+color: #ffffff;
+font-size: 1.25rem;
+margin-right: 15px;
+}
+
+.bigImage {
+  padding-right: 18px;
+  margin: 10px 0 10px 0;
+
+}
+
+.orbit-container {
+  background-color: #E5EEFB;
+  border:  solid 5px #000000;
+  margin:  10px 0px 10px 0px;
+  font-family: 'Merriweather', serif;
+}
+
+.orbit-slide {
+padding: 10px 0 10px 5px;
+}
+
+.calloutStyle {
+font-family: 'Merriweather', serif;
+}
+
+.list {
+font-family: 'Merriweather', serif;
+line-height: 180%;
+}
+
+.smallimagecaption {
+font-size: 13px;
+text-align: right;
+}
+
+.youtube {
+  margin-top: 25px;
+}
+
