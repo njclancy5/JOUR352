@@ -1,0 +1,89 @@
+.mainHeader {
+	background-color:#35461d;
+  padding: 40px 0 40px 0;
+  margin-bottom: 20px;
+}
+
+h1 {
+	font-weight: 700;
+  color:whitesmoke;
+font-family: 'Merriweather', serif;
+padding-bottom: 15px;
+
+}
+
+h2 {
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+  font-size:  29px;
+}
+
+h3 {
+	font-weight: 700;
+  font-family: 'Merriweather', serif;
+  padding:  10px 0 10px 0;
+}
+
+p {
+font-family: 'Merriweather', serif;
+}
+
+li {
+  padding-bottom: 17px;
+}
+
+
+.sidebar {
+	background-color:#99a47c;
+  font-family: 'Merriweather', serif;
+}
+
+.calloutStyle {
+background-color: #5d5d40;
+color: #ffffff;
+font-size: 1.25rem;
+margin-right: 15px;
+}
+
+.bigImage {
+  padding-right: 30px;
+  margin: 10px 0 10px 0;
+
+}
+
+.calloutStyle {
+font-family: 'Merriweather', serif;
+}
+
+.list {
+font-family: 'Merriweather', serif;
+line-height: 180%;
+}
+
+.smallimagecaption {
+font-size: 13px;
+text-align: right;
+padding-right: 20px;
+}
+
+
+.smallimage {
+  padding-left: 5px;
+}
+
+.walkscore {
+  background-color: whitesmoke;
+  margin-top: 5px;
+}
+
+.sidebarHeading {
+  margin-left: 12px;
+}
+
+.parkrunCaption {
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+
